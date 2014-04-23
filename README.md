@@ -1,4 +1,7 @@
-bootstrapthemeforarduinowebserver
-=================================
+Arduino server home page
+========================
 
-Bootstrap theme for arduino home web server
+Intro
+-----
+
+Bootstrap based arduino web server example
